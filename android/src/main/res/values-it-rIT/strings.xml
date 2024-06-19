@@ -1,14 +1,7 @@
 <resources>
-    <string name="scanner_title">Scansiona QRCode</string>
-    <string name="camera_permission_tips">
-        Sembra che le impostazioni sulla privacy ti impediscano di accedere alla fotocamera per la scansione.
-
-        Puoi risolvere il problema seguendo questi passaggi:
-          1. Tocca il pulsante Impostazioni qui sotto per aprire l'app Impostazioni.
-          2. Attiva la fotocamera.
-          3. Riapri questa app e riprova.
-        </string>
-    <string name="go_to_webview">Vuoi andare immediatamente?</string>
-    <string name="dialog_btn_go">Impostazioni</string>
-    <string name="dialog_btn_cancel">Annulla</string>
+  <string name="scanner_title">Scansiona QRCode</string>
+  <string name="camera_permission_tips">Sembra che le impostazioni sulla privacy ti impediscano di accedere alla fotocamera per la scansione. Puoi risolvere il problema seguendo questi passaggi:\n\n1. Tocca il pulsante Impostazioni qui sotto per aprire l\'app Impostazioni.\n\n2. Attiva la fotocamera.\n\n3. Riapri questa app e riprova.</string>
+  <string name="go_to_webview">Vuoi andare immediatamente?</string>
+  <string name="dialog_btn_go">Impostazioni</string>
+  <string name="dialog_btn_cancel">Annulla</string>
 </resources>

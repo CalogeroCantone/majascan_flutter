@@ -1,0 +1,7 @@
+"cancel" = "Annulla";
+"confirm" = "Conferma";
+"cameraPermisionNonOpen" = "Sembra che le impostazioni sulla privacy ti impediscano di accedere alla fotocamera per la scansione dei codici a barre. Puoi risolvere il problema seguendo questi passaggi:\n\n1. Tocca il pulsante Vai qui sotto per aprire l'app Impostazioni.\n\n2. Attiva la fotocamera.\n\n3. Riapri questa app e riprova.";
+"scannerTitle" = "Scansiona QRCode";
+"goImmediately" = "Vuoi andare immediatamente?";
+"go" = "VAI";
+"deviceNotSupport" = "Si è verificato un problema durante la configurazione della sessione di acquisizione.";
